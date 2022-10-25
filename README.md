@@ -11,3 +11,6 @@ I modified the scripts to support flexible orgs-adding feature, the entry is in 
 
 Also, I provide a bash script auto-test.sh to easily execute the whole test workflow.
 
+## AVISPA
+### Setup
+We select OFMC and CL-AtSe backends for simulation since the bitwise XOR operations are not supported in SATMC and TA4SP backends. The result is "SAFE".
