@@ -1,6 +1,6 @@
 ## Overview
-This repository implements the protocol proposed in "A Blockchain-Based Trusted Management Framework for IoT Collaboration" and contains an authentication scheme, a Kademlia-based storage scheme, and the HLPSL file used to verify the security. 
-## Hyperledger Fabric
+This repository implements the protocol proposed in "A Blockchain-Based Trusted Management Framework for IoT Collaboration" and contains the Kademlia-based storage scheme and the HLPSL file that is used to verify the security of the designed authentication scheme via AVISPA. 
+## Kademlia
 ### Dependencies
 - Fabric v2.4.6
 - Caliper v0.5.0
