@@ -1,5 +1,5 @@
 ## Overview
-This repository contains a lightweight authentication scheme, a Kademlia-based storage scheme, and the HLPSL file. 
+This repository implements the protocol proposed in "A Blockchain-Based Trusted Management Framework for IoT Collaboration" and contains an authentication scheme, a Kademlia-based storage scheme, and the HLPSL file used to verify the security. 
 ## Hyperledger Fabric
 ### Dependencies
 - Fabric v2.4.6
