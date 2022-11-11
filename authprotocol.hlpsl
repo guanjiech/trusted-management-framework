@@ -12,6 +12,7 @@ role user (
 	% Dolev Yao model channels 
 )
 
+
 played_by A 
 
 def=
