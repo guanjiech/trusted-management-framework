@@ -17,7 +17,9 @@ This project is based on Shashank Agrawal and Melissa Chase's paper [1], and it 
 [2] "Attribute-based Encryption". https://github.com/sagrawal87/ABE
 ## AVISPA
 ### Setup
-We select OFMC and CL-AtSe backends for simulation since the bitwise XOR operations are not supported in SATMC and TA4SP backends. The returned result is "SAFE".
+We select OFMC and CL-AtSe backends for simulation since the bitwise XOR operations are not supported in SATMC and TA4SP backends. The proposed authentication protocol is implemented in authprotocol.hlpsl. The returned result of AVISPA is "SAFE".
+
+However, we find some operational errors and malfunctions in the tool when we test the codes and debug. To avoid the ambiguity and controversy brought by the tool, we deleted the contents related to AVISPA in the paper.
 
 ## Others
 Note that we refer to [this link](https://blog.csdn.net/shuiyixin/article/details/104490091) for the installation and usage of the CP-ABE library.
